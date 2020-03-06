@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Cavid",
+      "salary": "1200",
+      "department": "DIN",
+      "id": 3
+    },
+    {
+      "name": "Emil",
+      "salary": "5000",
+      "department": "WebCoder Agency",
+      "id": 4
+    },
+    {
+      "name": "Emin",
+      "salary": "5000",
+      "department": "Safaroff Agency",
+      "id": 5
+    },
+    {
+      "name": "Nazir",
+      "salary": "450",
+      "department": "PPX",
+      "id": 6
+    },
+    {
+      "name": "Namik",
+      "salary": "500",
+      "department": "Forest",
+      "id": 7
+    },
+    {
+      "name": "Fazil",
+      "salary": "750",
+      "department": "AzerSu MMC",
+      "id": 8
+    }
+  ]
+}
